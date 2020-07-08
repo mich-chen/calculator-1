@@ -28,9 +28,17 @@ def multiply(num1, num2):
 def divide(num1, num2):
     """Divide the first input by the second and return the result."""
 
+    divided = num1/num2
+
+    return divided
+
 
 def square(num1):
     """Return the square of the input."""
+
+    squared = num1**2
+
+    return sqaured
 
 
 def cube(num1):
