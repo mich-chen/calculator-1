@@ -38,7 +38,7 @@ def square(num1):
 
     squared = num1**2
 
-    return sqaured
+    return squared
 
 
 def cube(num1):
